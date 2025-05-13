@@ -22,7 +22,7 @@ Site de anúncio e venda de carros
 ## RNFs ( Requisitos não-funcionais )
 
 - [x] Utilizar React + Styled Component no Front-end
-- [x] Utilizar Node + JavaScripe + Express no Back-end
+- [x] Utilizar Node + JavaScript + Express no Back-end
 - [x] Utilizar Bcrypt para hash de senha dos usuários
 - [x] Utilizar SQlite como Banco de dados
 - [x] Utilizar Knex-js para manipular o Banco de dados
